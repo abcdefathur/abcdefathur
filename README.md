@@ -14,7 +14,7 @@
 
 
 
-- 🌱 I’m currently learning I’m currently learning anything i want 
+- 🌱 I’m currently learning anything i want 
 
 - 💬 Talk to me about Nodejs, JavaScript, React, and Yor Forger :heart_eyes: :revolving_hearts:
 
